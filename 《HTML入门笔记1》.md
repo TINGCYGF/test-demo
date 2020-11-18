@@ -1,0 +1,140 @@
+## HTML的诞生
+ HTML是由1982年，Tim Berners-Lee建立HTML
+ 国内多称为李爵士
+ 
+ ## HTML起手式
+ 新建filename.html文档
+ 在VScode输入！+回车
+ 就会自动填充起手式代码
+ ## HTML基本结构
+
+html
+<！DOCTYPE html>
+<html lang =“ zh_CN”>
+<头>
+  <meta charset =“ UTF-8”>
+  <title>标题</ title>
+</ head>
+<身体>
+    
+</ body>
+</ html>
+```
+
+###文档声明<！DOCTYPE html>
+
+```
+<！DOCTYPE html>
+```
+
+文档说明告诉浏览器页面是HTML5标准进行解析
+
+### html元素
+
+html
+<html lang =“ zh_CN”>
+```
+
+文档的根元素，一个文档只能有一个，其他元素都是它的后代元素
+
+W3C标准建议增加lang元素：language（语言）
+
+### head元素
+
+里面是“元数据”（描述网页的数据）
+
+例如：字符编码，网页标题，网页图标
+
+html
+<头>
+  <meta charset =“ UTF-8”> //字符编码，UTF-8支持最全
+  <title>标题</ title> //标签
+  <style> </ style>样式标签
+  <link：引用外部css>
+  <link rel =“ icon” href =“ https // baidu.com”>
+</ head>
+```
+
+### HTML属性
+
+主要三个属性class，id，title
+
+##标签
+```
+<！DOCTYPE html>
+<html>
+<头>
+  <meta charset =“ utf-8”>
+  <title> JS Bin </ title>
+</ head>
+<身体>
+    <h1>我是标题标签</ h1>
+    <h2>我是标题2标签</ h2>
+    <section>我是章节头</ section>
+    <article>我是文字内容</ article>
+    <p>我是p标签表示一个起点</ p>
+    <header>我是头部</ header>
+    <footer>我是脚步</ footer>
+    <main>我才是主要内容</ main>
+    <aside>我是旁支内容</ aside>
+    <div>我可以把他们划分开来</ div>
+  
+</ body>
+</ html>
+```
+##类别属性
+```
+类
+内容可编辑
+隐
+ID
+风格
+标签索引
+标题
+
+```
+
+##常用标签
+
+```
+  <ol>
+    <li>我是有序列表</ li>
+  </ ol>
+  <ul>
+    <li>我是无序列表</ li>
+  </ ul>
+  <dl>
+    <dt>单条术语，多条描述
+    <dd>我是1 </ dd>
+    <dd>我是2 </ dd>
+    <dd>我是3 </ dd>
+    </ dt>
+  </ dl>
+  <pre>
+    我里面的内容可以显示多个空间
+    而且可以回车
+  </ pre>
+  <pre>
+  <code>
+  
+    我是代码
+    配合pre可以随意显示分行和间隔
+ 
+  </ code>
+  </ pre>
+  <hr>
+  <div> br可以作为
+    <br>分行符</ div>
+
+  <div> em和strong的区别
+    <br>
+    <em>零零零零</ em>
+    <strong>零零零零</ strong>
+
+  </ div>
+  <q>我是什么，原来是加个引号</ q>
+  <blockquote>我又是什么，首行缩进？
+  查一下MDN
+    原来是块级引用元素
+  </ blockquote>
+```

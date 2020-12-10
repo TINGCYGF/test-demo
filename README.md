@@ -3,8 +3,8 @@
 
 ### 会动的八卦
 适应手机和PC
-https://tingcygf.github.io/test/cv-1/src/index.html
+http://tingcygf.gitee.io/test-demo/cv-1/src/index.html
 
 ### canva画板
 适应手机和pc
-https://tingcygf.github.io/test/canvas/index.html
+http://tingcygf.gitee.io/test-demo/canvas/index.html

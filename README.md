@@ -3,8 +3,12 @@
 
 ### 会动的八卦
 适应手机和PC
-http://tingcygf.gitee.io/test-demo/cv-1/src/index.html
+https://tingcygf.gitee.io/prototype/automatic/index.html
 
 ### canva画板
 适应手机和pc
-http://tingcygf.gitee.io/test-demo/canvas/index.html
+https://tingcygf.gitee.io/prototype/canvas/index.html
+
+### 简易MVVM框架
+适应手机和pc
+https://tingcygf.gitee.io/prototype/MVVM/index.html
